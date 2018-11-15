@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\sherold\\Desktop\\CodingDojo\\C#\\C#_projects\\c#Fundamentals\\puzzles\\puzzles\\puzzles.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
